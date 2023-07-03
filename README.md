@@ -6,7 +6,7 @@ Do you have multiple repositories with a `master` and `main` branches?
 Do you regularly forget which branch is the "main" in current repo?
 Well, BranchFixer fixes that!
 
-This tool integrates with `.bashrc`/`.zshrc` and keeps track of some git subcommands that require a branch name (`switch`, `checkout`, `merge`, `rebase`, `log` now supported).
+This tool integrates with `.bashrc`/`.zshrc` and keeps track of some git subcommands that require a branch name (`switch`, `checkout`, `merge`, `rebase`, `log` are now supported).
 
 If you mistype the branch name, BranchFixer will try to correct the command.
 For example:  You type `git switch main`, but the `main` branch does not exist in the current repo – BranchFixer will correct the branch name to `master`.
