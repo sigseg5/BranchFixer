@@ -39,13 +39,13 @@ Also you can install BranchFixer via `curl` or `wget`:
 - curl
 
 ```bash
-curl -sSf --proto "=https" --tlsv1.2 "https://raw.githubusercontent.com/sigseg5/BranchFixer/blob/master/z.sh" >> "$HOME/.zshrc"
+curl -sSf --proto "=https" --tlsv1.2 "https://raw.githubusercontent.com/sigseg5/BranchFixer/master/z.sh" >> "$HOME/.zshrc"
 ```
 
 - wget
 
 ```bash
-wget -qO- --https-only "https://raw.githubusercontent.com/sigseg5/BranchFixer/blob/master/z.sh" >> "$HOME/.zshrc"
+wget -qO- --https-only "https://raw.githubusercontent.com/sigseg5/BranchFixer/master/z.sh" >> "$HOME/.zshrc"
 ```
 
 ### Network install and integration into bash
@@ -53,13 +53,13 @@ wget -qO- --https-only "https://raw.githubusercontent.com/sigseg5/BranchFixer/bl
 - curl
 
 ```bash
-curl -sSf --proto "=https" --tlsv1.2 "https://raw.githubusercontent.com/sigseg5/BranchFixer/blob/master/ba.sh" >> "$HOME/.bashrc"
+curl -sSf --proto "=https" --tlsv1.2 "https://raw.githubusercontent.com/sigseg5/BranchFixer/master/ba.sh" >> "$HOME/.bashrc"
 ```
 
 - wget
 
 ```bash
-wget -qO- --https-only "https://raw.githubusercontent.com/sigseg5/BranchFixer/blob/master/ba.sh" >> "$HOME/.bashrc"
+wget -qO- --https-only "https://raw.githubusercontent.com/sigseg5/BranchFixer/master/ba.sh" >> "$HOME/.bashrc"
 ```
 
 ## Compatibility
